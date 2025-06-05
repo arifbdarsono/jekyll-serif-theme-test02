@@ -1,6 +1,6 @@
-baseurl: '/'
+baseurl: '/jekyll-serif-theme-test02
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Jekyll Serif Theme Test02'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
