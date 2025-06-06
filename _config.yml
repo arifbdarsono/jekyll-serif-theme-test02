@@ -2,7 +2,7 @@ baseurl: '/jekyll-serif-theme-test02'
 url: 'https://arifbdarsono.github.io'
 permalink: pretty
 title: 'Jekyll Serif'
-
+remote_theme: jekyll-serif-theme
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
